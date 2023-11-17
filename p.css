@@ -1,0 +1,94 @@
+body{
+    background-color: white;
+}
+.one{
+    display: flex;
+    justify-content: space-between ;
+    width: 70%;
+    position: absolute;
+    right: 5px;
+    font-size: 13px;
+    background-color: lawngreen;
+    padding: 3px;
+    padding-left: 6px;
+    border-bottom-left-radius: 5px;
+    font-style: bold;
+
+}
+.searchb{
+    flex-basis: 30%;
+    position: relative;
+    left: 80px;
+}
+
+.eight{
+    display: flex;
+    justify-content: space-between ;
+    width: 70%;
+    position: absolute;
+    right: 5px;
+    top: 70px;
+    font-size: 15px;
+    background-color:white;
+    
+}
+.thirteen{
+    background-color: lawngreen;
+    padding: 6px;
+    border-radius: 12px;
+    position: relative;
+    right: 20px;
+    padding-right: 2px;
+}
+.fourteen{
+    flex-basis:60%;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 20px;
+}
+.back{
+    width: 100%;
+}
+.seventeen{
+    font-size: 17px;
+    font-style: oblique;
+    background-color: lawngreen;
+    text-align: center;
+    position: relative;
+    bottom: 880px;
+    z-index: 1;
+    padding: 3px;
+}
+.eighteen{
+    z-index: 1;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 400px;
+}
+.twenty{
+    color: lawngreen;
+    font-size: 28px;
+    position: absolute;
+    top: 20px;
+    left: 170px;
+    font-style: bold;
+}
+.twotwo{
+    width: 200px;
+    position: relative;
+    bottom: 140px;
+    left:30px;
+}
+.twothr{
+    font-size: 40px;
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+}
